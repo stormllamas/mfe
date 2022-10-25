@@ -10,7 +10,7 @@ defaults:
   run:
     working-directory: packages/container
 
-jobs:
+job:
   build:
     runs-on: ubuntu-latest
 
